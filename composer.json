@@ -1,0 +1,19 @@
+{
+    "name": "ale/backpack-mongo-search-fix",
+    "autoload": {
+        "exclude-from-classmap": [
+            "vendor/backpack/crud/src/app/Library/CrudPanel/Traits/Search.php"
+        ],
+        "psr-4": {
+            "Backpack\\CRUD\\app\\Library\\CrudPanel\\Traits\\": "src/override/Traits"
+        }
+    },
+    
+    "authors": [
+        {
+            "name": "AleD",
+            "email": "ale.dolcini@gmail.com"
+        }
+    ],
+    "require": {}
+}
