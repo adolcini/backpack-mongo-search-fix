@@ -1,5 +1,6 @@
 {
     "name": "ale/backpack-mongo-search-fix",
+    "type": "library",
     "autoload": {
         "exclude-from-classmap": [
             "vendor/backpack/crud/src/app/Library/CrudPanel/Traits/Search.php"
