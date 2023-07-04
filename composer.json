@@ -1,5 +1,5 @@
 {
-    "name": "ale/backpack-mongo-search-fix",
+    "name": "adolcini/backpack-mongo-search-fix",
     "type": "library",
     "autoload": {
         "exclude-from-classmap": [
